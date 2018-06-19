@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Know.iml" filepath="$PROJECT_DIR$/Know.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinatortablayout/coordinatortablayout.iml" filepath="$PROJECT_DIR$/coordinatortablayout/coordinatortablayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expandpopview/expandpopview.iml" filepath="$PROJECT_DIR$/expandpopview/expandpopview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refreshloadmorelayout/refreshloadmorelayout.iml" filepath="$PROJECT_DIR$/refreshloadmorelayout/refreshloadmorelayout.iml" />
+    </modules>
+  </component>
+</project>
